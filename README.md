@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=500&lines=Hello+There!+👋;I'm+FreeBoy;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  
 </h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🎨 Designer | 🚀 Entrepreneur</h3>
